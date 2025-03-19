@@ -1,1 +1,4 @@
 Escribir los apellidos de los nombres del equipos
+- Jiménez Zepeda
+- Gómez Llanos
+- Guzman Solis
